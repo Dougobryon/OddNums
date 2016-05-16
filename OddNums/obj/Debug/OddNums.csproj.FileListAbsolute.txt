@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNums\OddNums\bin\Debug\OddNums.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNums\OddNums\obj\Debug\OddNums.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNums\OddNums\bin\Debug\OddNums.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNums\OddNums\bin\Debug\OddNums.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNums\OddNums\obj\Debug\OddNums.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OddNums\OddNums\obj\Debug\OddNums.pdb
